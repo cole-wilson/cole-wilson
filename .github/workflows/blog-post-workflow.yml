@@ -3,6 +3,9 @@ on:
   schedule:
     # Runs every hour
     - cron: "0 * * * *"
+  push:
+    branches:
+      - main
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
