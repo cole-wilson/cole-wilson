@@ -5,6 +5,8 @@
 
 ### Blogs posts:
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Student Developer Pack](https://colewilson.xyz/github-student-developer-pack/)
+- [Python on the ev3dev framework](https://colewilson.xyz/python-ev3dev/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
