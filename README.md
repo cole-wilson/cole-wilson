@@ -13,6 +13,7 @@
 <p align="left">
 <a href="https://stackoverflow.com/users/12392528" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12392528" height="30" width="40" /></a>
 <a href="/http://colewilson.xyz/feed.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="http://colewilson.xyz/feed.xml" height="30" width="40" /></a>
+ <a href="mailto:cole@colewilson.xyz" target="blank">cole@colewilson.xyz</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
