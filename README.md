@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cole-wilson&label=Profile%20views&color=0e75b6&style=flat" alt="cole-wilson" /> </p>
 
-### Blogs posts
+### Blogs posts:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
