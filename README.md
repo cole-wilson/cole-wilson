@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cole-wilson&label=Profile%20views&color=0e75b6&style=flat" alt="cole-wilson" /> </p>
 <img src="https://github-profile-trophy.vercel.app/?username=cole-wilson&theme=nord"></img>
 ### Blogs posts:
+
 <!-- BLOG-POST-LIST:START -->
 - [GitHub Student Developer Pack](https://colewilson.xyz/github-student-developer-pack/)
 - [Python on the ev3dev framework](https://colewilson.xyz/python-ev3dev/)
