@@ -11,4 +11,4 @@
 <!-- BLOG-POST-LIST:END -->
 
 <a href="mailto:cole@colewilson.xyz" target="blank">cole@colewilson.xyz</a>
-<img src="https://google.com/favicon.ico">
+<img src="https://github.com/favicon.ico">
