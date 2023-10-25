@@ -1,1 +1,2 @@
-![Metrics](https://github.com/cole-wilson/cole-wilson/blob/master/github-metrics.svg)
+# Hello!
+Check out my portfolio website at [cole.ws](https://cole.ws)!
